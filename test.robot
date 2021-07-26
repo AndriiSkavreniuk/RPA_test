@@ -25,7 +25,7 @@ Search function for AIHIT
     #authorization
     Click Element  //a[contains(@href, 'login')]
     Input Text  //input[@id="email"]  <your login>
-    Input Password  //input[@id="password"]  <yourp assword>
+    Input Password  //input[@id="password"]  <your password>
     Press Keys  //input[@id="submit"]  [Return]
 
     #search company
